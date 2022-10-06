@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /book
+ln -s /bin/ls __ls__
